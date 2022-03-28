@@ -1,6 +1,6 @@
 # 04-pokemon-game
 Enjoy the game:
-[Click here to get to de game](https://pokemonjoy.netlify.app/)
+[Click here to get to the game](https://pokemonjoy.netlify.app/)
 
 ## Project setup
 ```
