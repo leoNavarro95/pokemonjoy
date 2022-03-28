@@ -1,4 +1,6 @@
 # 04-pokemon-game
+Enjoy the game:
+[Click here to get to de game](https://pokemonjoy.netlify.app/)
 
 ## Project setup
 ```
@@ -22,3 +24,4 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
